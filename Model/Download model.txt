@@ -1,0 +1,6 @@
+/// Download the h5 model ///
+
+Drive link : https://drive.google.com/file/d/1Rg84QHFGFE3AFUoIkEmhyzvrljzT_06H/view?usp=share_link
+
+/// Download the h5 file and place it inside model 
+folder for working with project///

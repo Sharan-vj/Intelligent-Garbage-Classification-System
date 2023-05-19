@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title> Team </title>
+    <link rel="stylesheet" href="/Static/Css/team.css">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='Css/team.css') }}">
+
+</head>
+<body>
+
+    <header>
+        
+        <nav>
+            <div class="logo"> IBM Team ID : NM2023TMID11428</div>
+            <ul class="menu">
+                <li><a href="{{ url_for('home') }}">Home</a></li>
+                <li><a href="{{ url_for('classify') }}">Classify</a></li>
+                <li><a href="#">Team</a></li>
+                <li><a href="{{ url_for('about') }}">About</a></li>
+            </ul>
+        </nav>
+        
+    </header>
+
+    <main class="main"> 
+
+        <div class="web-title">
+            <h2> Team Members</h2>
+            <p> </p>
+        </div>
+
+        <div class="container">
+            <div class="image">
+              <img src="/Static/Images/TL.jpg" alt="Image 1">
+            </div>
+            <div class="image">
+              <img src="/Static/Images/TM1.jpg" alt="Image 2">
+            </div>
+            <div class="image">
+              <img src="/Static/Images/TM2.jpg" alt="Image 3">
+            </div>
+            <div class="image">
+              <img src="/Static/Images/TM3.jpg" alt="Image 4">
+            </div>
+          </div>
+
+          <div class="container">
+            <div class="text">
+              <h3>Team Leader</h3>
+              <p>Sharan (3rd year CSE)</p>
+            </div>
+            <div class="text">
+              <h3>Team Member 1</h3>
+              <p>Nandhini (3rd year CSE)</p>
+            </div>
+            <div class="text">
+              <h3>Team Member 2</h3>
+              <p>Manikandan (3rd year CSE)</p>
+            </div>
+            <div class="text">
+              <h3>Team Member 3</h3>
+              <p>Priya dharshini(3rd year CSE)</p>
+
+        
+    </main>
+
+    <footer></footer>
+</body>
+</html>
