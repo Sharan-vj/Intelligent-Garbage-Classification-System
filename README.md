@@ -1,4 +1,4 @@
-Intelligent Garbage Classification System
+<h2> Intelligent Garbage Classification System </h2>
 
 The Intelligent Garbage Classification System is an innovative project designed to revolutionize waste management by employing artificial intelligence and deep learning techniques. The system aims to address the critical issue of efficient garbage classification, enabling effective waste management and promoting environmental sustainability.
 
