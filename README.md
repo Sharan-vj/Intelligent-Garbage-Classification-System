@@ -11,9 +11,3 @@ To build the system, a comprehensive dataset of garbage images is collected and 
 The Intelligent Garbage Classification System is implemented as a user-friendly application, accessible via a web interface. Users can simply capture an image of the garbage using their device's camera, or upload pre-existing images, and submit it to the system for analysis. The system swiftly processes the image, extracts relevant features, and employs the trained models to determine the waste category. The results are then displayed to the user, providing guidance on the proper disposal method for the identified waste type.
 
 The Intelligent Garbage Classification System has the potential to significantly improve waste management practices worldwide. By automating the garbage classification process, it reduces the burden on human operators, enhances recycling efforts, and contributes to a cleaner and healthier environment. With the integration of cutting-edge technologies and user-friendly interfaces, the system empowers individuals and communities to actively participate in sustainable waste management practices, fostering a greener future for generations to come.
-
-<h2> Steps to use </h2>
-* Download and Extract source code
-* install requirements.txt
-* run app.py
-* open the localhost : 127.0.0.1 port=5000
