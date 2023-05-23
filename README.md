@@ -12,14 +12,8 @@ The Intelligent Garbage Classification System is implemented as a user-friendly 
 
 The Intelligent Garbage Classification System has the potential to significantly improve waste management practices worldwide. By automating the garbage classification process, it reduces the burden on human operators, enhances recycling efforts, and contributes to a cleaner and healthier environment. With the integration of cutting-edge technologies and user-friendly interfaces, the system empowers individuals and communities to actively participate in sustainable waste management practices, fostering a greener future for generations to come.
 
-Author - Sharan VJ
-
-Special Thanks to My Team Mates for your Contribution.
-
-Deep learning Model Developed By - Sharan VJ
-
-Backend Application Developed By - Nandhini N
-
-Frontend UI Developed By - Manikandan B 
-
-Cloud Deployment By - Priya dharshini S
+<h2> Steps to use </h2>
+* Download and Extract source code
+* install requirements.txt
+* run app.py
+* open the localhost : 127.0.0.1 port=5000
