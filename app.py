@@ -53,7 +53,7 @@ def team():
 def about():
     return render_template('about.html')
 
-# Running Flask Application in ip address = 127.0.0.1 port = 5000
+# Running Flask Application in host = 127.0.0.1 port = 5000
 if __name__ == '__main__':
     app.run(host = '127.0.0.1',port = 5000, debug = False)
 
