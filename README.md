@@ -14,4 +14,6 @@ The Intelligent Garbage Classification System has the potential to significantly
 
 <h2> Project Developed by</h2>
 Sharan vj 
-<a href="https://youtu.be/glW_EfoHDAg" Youtube>
+<ul>
+  <a href="https://youtu.be/glW_EfoHDAg"> Youtube</a>
+</ul>
